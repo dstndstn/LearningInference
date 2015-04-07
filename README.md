@@ -4,7 +4,7 @@ Notes on statistical inference, with strong themes of astronomy and Bayesianism.
 
 ## Contents
 
-* [Fitting a straight line](http://nbviewer.ipython.org/github/dstndstn/LearningInference/blob/master/straightline.ipynb) - ipython notebook comparing linear least squares, simple Bayesian posterior evaluation, and simple Metropolis-Hastings MCMC sampling. April 2015
+* [Fitting a straight line](http://nbviewer.ipython.org/github/dphilmarshall/LearningInference/blob/master/straightline.ipynb) - ipython notebook comparing linear least squares, simple Bayesian posterior evaluation, and simple Metropolis-Hastings MCMC sampling. April 2015
 
 ## Contributors, License etc
 
